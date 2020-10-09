@@ -63,7 +63,7 @@ Ruby Gems are small programs written in Ruby that help you to code more easily
 in Ruby. The gems you will install today include: Bundler, which allows you to
 keep track of which gems your projects need to work; Pry, which allows you to
 pause your code when it runs and inspect it; Nokogiri, which allows you to read
-and pick apart HTML pages; and Ruby on Rails, which allows you to easily create
+and pick apart HTML pages; and Ruby on Rails, which allows you to quickly create
 a web application with Ruby.
 
 ### Action Item
@@ -80,6 +80,6 @@ a web application with Ruby.
 
 ### Check Your Work
 
-If you are able to complete each step without any issues, and you see an output
+If you can complete each step without any issues, and you see an output
 of a number around 100 from the last command, continue to the next lesson,
 **Installing Node.js on macOS**.
