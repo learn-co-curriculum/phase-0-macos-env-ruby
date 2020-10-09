@@ -19,12 +19,12 @@ installed, but it may not be linked properly. To fix:
 1. Open the "Terminal" application using "Spotlight Search"
 2. Type `brew link gnupg` and press `<Enter>`
 
-## Install Ruby Environment Manager (RVM) on Ubuntu
+## Install Ruby Environment Manager (RVM) on macOS
 
 Ruby Environment Manager (RVM) is a tool that will allow you to download and
 install multiple versions of Ruby, one of the programming languages that we
 teach at Flatiron School. This is the first step in installing Ruby on your
-Ubuntu operating system.
+macOS operating system.
 
 ### Action Item
 
@@ -41,7 +41,7 @@ Ubuntu operating system.
 If you see a long message ending in "For additional documentation please visit
 https://rvm.io", continue below.
 
-## Install Ruby version 2.6.1 on Ubuntu
+## Install Ruby version 2.6.1 on macOS
 
 For our Ruby labs and lessons, we expect that students use Ruby version 2.6.1.
 If Ruby Environment Manager (RVM) has been successfully installed, you can
