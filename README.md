@@ -81,4 +81,5 @@ a web application with Ruby.
 ### Check Your Work
 
 If you are able to complete each step without any issues, and you see an output
-of a number around 100 from the last command, continue below.
+of a number around 100 from the last command, continue to the next lesson,
+**Installing Node.js on macOS**.
