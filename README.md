@@ -1,4 +1,4 @@
-# Installing Ruby
+# Installing Ruby on macOS
 
 ## Install the GMP and GnuPG Packages
 
