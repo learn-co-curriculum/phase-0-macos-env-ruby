@@ -5,7 +5,7 @@
 Before installing RVM and Ruby, we will need to add two tools which help us to
 verify that we're installing the software that we're expecting.
 
-### Action item
+### Action Item
 
 1. Open the "Terminal" application using "Spotlight Search"
 2. Type `brew install gmp` and press `<Enter>`
