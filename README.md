@@ -13,6 +13,8 @@ verify that we're installing the software that we're expecting.
 
 ### Check Your Work
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YO14TLJvun0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 If you get an error saying "Warning: gnupg-1.4.19 already installed", GnuPG is
 installed, but it may not be linked properly. To fix:
 
@@ -38,6 +40,8 @@ macOS operating system.
 
 ### Check Your Work
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9_bo5wVw-XQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 If you see a long message ending in "For additional documentation please visit
 https://rvm.io", continue below.
 
@@ -54,6 +58,8 @@ quickly install Ruby with a couple of commands.
 3. Type `rvm list` and press `<Enter>`
 
 ### Check Your Work
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TguTS-q83EE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 If you see a message starting with "=\* ruby-2.6.1", continue below.
 
@@ -79,6 +85,8 @@ a web application with Ruby.
 8. Type `gem list | wc -l` and press `<Enter>`
 
 ### Check Your Work
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IuezZfSTLzg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 If you can complete each step without any issues, and you see an output
 of a number around 100 from the last command, continue to the next lesson,
