@@ -45,6 +45,9 @@ macOS operating system.
 If you see a long message ending in "For additional documentation please visit
 https://rvm.io", continue below.
 
+If `rvm` is not found, check out the troubleshooting steps in
+**Verify and Troubleshoot your macOS Environment Setup** later on in this module.
+
 ## Install Ruby version 2.6.1 on macOS
 
 For our Ruby labs and lessons, we expect that students use Ruby version 2.6.1.
