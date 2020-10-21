@@ -94,4 +94,4 @@ a web application with Ruby.
 
 If you can complete each step without any issues, and you see an output
 of a number around 100 from the last command, continue to the next lesson,
-**Installing Node.js on macOS**.
+**Installing Databases on macOS**.
