@@ -51,7 +51,7 @@ module.
 
 ## Install Ruby version 2.7.2 on macOS
 
-For our Ruby labs and lessons, we expect that students use Ruby version 2.6.1.
+For our Ruby labs and lessons, we expect that students use Ruby version 2.7.2.
 If Ruby Environment Manager (RVM) has been successfully installed, you can
 quickly install Ruby with a couple of commands.
 
