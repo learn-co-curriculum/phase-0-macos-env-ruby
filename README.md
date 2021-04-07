@@ -49,7 +49,7 @@ If `rvm` is not found, check out the troubleshooting steps in the
 **Verify and Troubleshoot your macOS Environment Setup** lesson later on in this
 module.
 
-## Install Ruby version 2.6.1 on macOS
+## Install Ruby version 2.7.2 on macOS
 
 For our Ruby labs and lessons, we expect that students use Ruby version 2.6.1.
 If Ruby Environment Manager (RVM) has been successfully installed, you can
@@ -58,14 +58,14 @@ quickly install Ruby with a couple of commands.
 ### Action Item
 
 1. Open the "Terminal" application using "Spotlight Search"
-2. Type `rvm install 2.6.1` and press `<Enter>`
+2. Type `rvm install 2.7.2` and press `<Enter>`
 3. Type `rvm list` and press `<Enter>`
 
 ### Check Your Work
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TguTS-q83EE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-If you see a message starting with "=\* ruby-2.6.1", continue below.
+If you see a message starting with "=\* ruby-2.7.2", continue below.
 
 ## Install Ruby Gems
 
