@@ -13,7 +13,7 @@ verify that we're installing the software that we're expecting.
 
 ### Check Your Work
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YO14TLJvun0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5JTWcR7n1xo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 If you get an error saying "Warning: gnupg-1.4.19 already installed", GnuPG is
 installed, but it may not be linked properly. To fix:
@@ -23,24 +23,24 @@ installed, but it may not be linked properly. To fix:
 
 ## Install Ruby Environment Manager (RVM) on macOS
 
-Ruby Environment Manager (RVM) is a tool that will allow you to download and
+[Ruby Environment Manager (RVM)][rvm] is a tool that will allow you to download and
 install multiple versions of Ruby, one of the programming languages that we
 teach at Flatiron School. This is the first step in installing Ruby on your
 macOS operating system.
 
+[rvm]: https://rvm.io/
+
 ### Action Item
 
 1. Open the "Terminal" application using "Spotlight Search"
-2. Type `curl -sSL https://rvm.io/mpapis.asc | gpg --import -` and press `<Enter>`
-3. Type `curl -sSL https://rvm.io/pkuczynski.asc | gpg --import -` and press `<Enter>`
-4. Type `\curl -sSL https://get.rvm.io | bash` and press `<Enter>`
-5. Close the "Terminal" application
-6. Reopen the "Terminal" application
-7. Type `rvm` and press `<Enter>`
+2. Type `gpg --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB` and press `<Enter>`
+3. Type `\curl -sSL https://get.rvm.io | bash -s stable` and press `<Enter>`
+4. Close and reopen the "Terminal" application
+5. Type `rvm` and press `<Enter>`
 
 ### Check Your Work
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9_bo5wVw-XQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KLPVQDUYu-I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 If you see a long message ending in "For additional documentation please visit
 https://rvm.io", continue below.
@@ -63,7 +63,7 @@ quickly install Ruby with a couple of commands.
 
 ### Check Your Work
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TguTS-q83EE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKU3o2xqqtU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 If you see a message starting with "=\* ruby-2.7.4", continue below.
 
@@ -84,6 +84,8 @@ pause Ruby code execution when it runs and inspect it.
 
 ### Check Your Work
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rc5vn4FVvXc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 If you can complete each step without any issues and you see an output
-of a number around or above 40 from the last command, continue to the next lesson,
+of a number around or above 60 from the last command, continue to the next lesson,
 **Configuring Git and GitHub on macOS**.
